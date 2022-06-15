@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, cyberSec, CTF
 - 🌱 I’m currently learning JAVA, R
 - 💞️ I’m looking to collaborate on JAVA, C, C++, Python
-- 📫 Reach me at my email : freakmine64@gmail.com
+- 📫 Reach me at my email : freakmine64@gmail.com twt : @_holyship
 
 <!---
 Freak-kid/Freak-kid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
