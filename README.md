@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Freak-kid
 - 👀 I’m interested in coding, cyberSec, CTF
-- 🌱 I’m currently learning JAVA, R
-- 💞️ I’m looking to collaborate on JAVA, C, C++, Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on JAVA, C, C++, Python, R
 - 📫 Reach me at my email : freakmine64@gmail.com twt : @_holyship
 
 <!---
